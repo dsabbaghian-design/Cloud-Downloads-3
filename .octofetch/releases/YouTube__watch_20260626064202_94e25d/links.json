@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7836",
+  "folder": "YouTube__watch_20260626064202_94e25d",
+  "base_name": "MINEL_82GxISMOoeM_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/tag/co-releases-v1-7836",
+  "files": [
+    {
+      "name": "MINEL_82GxISMOoeM_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/download/co-releases-v1-7836/MINEL_82GxISMOoeM_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-3/releases/assets/458383594",
+      "id": 458383594,
+      "size": 26686294,
+      "download_count": 0
+    }
+  ]
+}
