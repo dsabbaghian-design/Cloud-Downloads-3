@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3779",
+  "folder": "YouTube__watch_20260626064057_eb8676",
+  "base_name": "NEW_MINEL_residence_office_Faza_2_Napredak_radova_April_2026_lHuS_WToDyA_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/tag/co-releases-v1-3779",
+  "files": [
+    {
+      "name": "NEW_MINEL_residence_office_Faza_2_Napredak_radova_April_2026_lHuS_WToDyA_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/download/co-releases-v1-3779/NEW_MINEL_residence_office_Faza_2_Napredak_radova_April_2026_lHuS_WToDyA_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-3/releases/assets/458383208",
+      "id": 458383208,
+      "size": 25149000,
+      "download_count": 0
+    }
+  ]
+}
