@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7088",
+  "folder": "YouTube__watch_20260626063653_409a8c",
+  "base_name": "MINEL_(Bi_Boro_Bargasht)_Xc-y3rRLS1Y_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/tag/co-releases-v1-7088",
+  "files": [
+    {
+      "name": "MINEL_.Bi_Boro_Bargasht._Xc-y3rRLS1Y_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/download/co-releases-v1-7088/MINEL_.Bi_Boro_Bargasht._Xc-y3rRLS1Y_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-3/releases/assets/458380398",
+      "id": 458380398,
+      "size": 7229651,
+      "download_count": 0
+    }
+  ]
+}
