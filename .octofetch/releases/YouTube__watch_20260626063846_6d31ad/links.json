@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7861",
+  "folder": "YouTube__watch_20260626063846_6d31ad",
+  "base_name": "MINEL_-_Tribute_to_Hatef_Persian_Music_Cover_xV1el6izPS4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/tag/co-releases-v1-7861",
+  "files": [
+    {
+      "name": "MINEL_-_Tribute_to_Hatef_Persian_Music_Cover_xV1el6izPS4_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/download/co-releases-v1-7861/MINEL_-_Tribute_to_Hatef_Persian_Music_Cover_xV1el6izPS4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-3/releases/assets/458381487",
+      "id": 458381487,
+      "size": 41853332,
+      "download_count": 0
+    }
+  ]
+}
