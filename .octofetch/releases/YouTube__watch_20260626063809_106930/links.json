@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2205",
+  "folder": "YouTube__watch_20260626063809_106930",
+  "base_name": "MINEL_Farzin_Cover_(Official_Audio)_XEkpf53UTQI_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/tag/co-releases-v1-2205",
+  "files": [
+    {
+      "name": "MINEL_Farzin_Cover_.Official_Audio._XEkpf53UTQI_1080p.mp4",
+      "url": "https://github.com/dsabbaghian-design/Cloud-Downloads-3/releases/download/co-releases-v1-2205/MINEL_Farzin_Cover_.Official_Audio._XEkpf53UTQI_1080p.mp4",
+      "api_url": "https://api.github.com/repos/dsabbaghian-design/Cloud-Downloads-3/releases/assets/458381065",
+      "id": 458381065,
+      "size": 38667389,
+      "download_count": 0
+    }
+  ]
+}
